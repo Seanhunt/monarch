@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow version="2">
+	<layout>
+<vbox>
+	<vboxitem id="images" height="100%" padt="0" padr="0" padb="0" padl="0" />
+</vbox>
+
+	</layout>
+	<background color="#C5CED5" fade="false" transparent="true" />
+	<caption font="Verdana" size="10" color="#000000" bold="false" align="center" selectable="false" border="false" />
+	<thumbnails border="true" horizontal="false" />
+	<controls bgcolor="#C5CED5">
+		<title text="" font="Arial" size="16" color="#333333" bold="true" />
+		<buttons>
+			<item id="first" label="&lt;&lt;" />
+			<item id="prev" label="&lt;" />
+			<item id="gotobox" label="" />
+			<item id="next" label="&gt;" />
+			<item id="last" label="&gt;&gt;" />
+			<item id="autoplay" label="Autoplay?" />
+		</buttons>
+	</controls>
+	<images autoplay="true" loop="true" delay="5" requireloaded="10000" usecache="true" linktarget="_self" transition="Fade">
+		<image url="Image1.jpg" caption="" link="" />
+		<image url="Image2.jpg" caption="" link="" />
+		<image url="Image3.jpg" caption="" link="" />
+		<image url="Image4.jpg" caption="" link="" />
+		<image url="Image5.jpg" caption="" link="" />
+		<image url="Image6.jpg" caption="" link="" />
+		<image url="Image7.jpg" caption="" link="" />
+		<image url="Image8.jpg" caption="" link="" />
+		<image url="Image9.jpg" caption="" link="" />
+		<image url="Image10.jpg" caption="" link="" />
+		<image url="Image11.jpg" caption="" link="" />
+		<image url="Image12.jpg" caption="" link="" />
+		<image url="Image13.jpg" caption="" link="" />
+		<image url="Image14.jpg" caption="" link="" />
+	</images>
+</slideshow>
